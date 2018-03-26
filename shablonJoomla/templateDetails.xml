@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension version="3.0" type="template">
+
+	<name>design_studio</name>
+
+	<version>1.0.0</version>
+
+	<creationDate>27.03.2018</creationDate>
+
+	<author>Kirill</author>
+
+	<authorMail>kirillmakienko@gmail.com</authorMail>
+
+	<authorUrl>http://Queue.com </authorUrl>
+
+	<copyright>Copyright (C) 2018</copyright>
+
+	<license>License Information</license>
+
+	<description>TPL_DESIGN_DESCRIPTION</description>
+
+	<files>
+
+		<folder>css</folder>
+
+		<folder>images</folder>
+
+		<folder>html</folder>
+
+		<folder>language</folder>
+		
+		<folder>JS</folder>
+
+		<filename>index.html</filename>
+
+		<filename>index.php</filename>
+
+		<filename>templateDetails.xml</filename>
+
+		<!-- <filename>template_thumbnail.png</filename> -->
+
+		<filename>template_preview.jpg</filename>
+
+	</files>
+
+	<languages folder="language">
+		<language tag="ru-RU">ru-RU/ru-RU.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.sys.ini</language>
+		<language tag="uk-UK">uk-UK/uk-UK.ini</language>
+		<language tag="uk-UK">uk-UK/uk-UK.sys.ini</language>
+	</languages>
+
+	<positions>
+		<position>position-0</position>
+		<position>position-1</position>
+		<position>position-2</position>
+		<position>position-3</position>
+		<position>position-4</position>
+	</positions>
+
+</extension>
+	
+</xml>
