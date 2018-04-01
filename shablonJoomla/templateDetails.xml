@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<extension version="3.0" type="template">
+<extension version="3.8" type="template">
 
 	<name>design_studio</name>
 
@@ -60,5 +60,3 @@
 	</positions>
 
 </extension>
-	
-</xml>
